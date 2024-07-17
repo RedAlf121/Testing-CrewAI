@@ -2,4 +2,4 @@
 #This is the syntax:
 #dependency == version
 #With pip list or pip3 list you can see that information
-#crewai == 0.36.1
+crewai == 0.36.1
